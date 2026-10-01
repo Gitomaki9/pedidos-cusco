@@ -18,4 +18,7 @@ y a los restaurantes gestionarlos.
 git clone https://github.com/TU_USUARIO/pedidos-cusco.git
 
 ## Autor
-Tu Nombre - Curso/Universidad
+Andy Yoseph Quispe Huanca
+Cesar Andersson Saire Hancc
+Jean Marco Pacha Quispe
+Abelardo Ttito Quispe - INGENIERIA DE SOFTWARE I/ Universidad Nacional de San Antonio Abad del Cusco
