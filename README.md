@@ -19,6 +19,6 @@ git clone https://github.com/TU_USUARIO/pedidos-cusco.git
 
 ## Autor
 Andy Yoseph Quispe Huanca
-Cesar Andersson Saire Hancc
+Cesar Andersson Saire Hancco
 Jean Marco Pacha Quispe
 Abelardo Ttito Quispe - INGENIERIA DE SOFTWARE I/ Universidad Nacional de San Antonio Abad del Cusco
